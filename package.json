@@ -1,0 +1,36 @@
+{
+  "name": "imageannotaion",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "4.12.1",
+    "@material-ui/styles": "4.11.4",
+    "konva": "8.1.1",
+    "lodash": "4.17.21",
+    "material-ui-color-picker": "3.5.1",
+    "mobx": "6.3.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-konva": "17.0.2-4",
+    "react-scripts": "4.0.0",
+    "use-image": "1.0.7"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
